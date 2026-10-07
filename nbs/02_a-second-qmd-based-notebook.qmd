@@ -1,5 +1,5 @@
 ---
-title: Beyond nbdev
+title: This is a second documentation page
 jupyter:
   jupytext:
     text_representation:
@@ -13,4 +13,4 @@ jupyter:
     name: python3
 ---
 
-Let's see if we can generate documentation pages with quarto. 
+More stuff here. 

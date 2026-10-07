@@ -1,0 +1,24 @@
+[
+  {
+    "objectID": "nbs/01_a-qmd-first-notebook.html",
+    "href": "nbs/01_a-qmd-first-notebook.html",
+    "title": "Beyond nbdev",
+    "section": "",
+    "text": "Let’s see if we can generate documentation pages with quarto.",
+    "crumbs": [
+      "Nbs",
+      "Beyond nbdev"
+    ]
+  },
+  {
+    "objectID": "nbs/02_a-second-qmd-based-notebook.html",
+    "href": "nbs/02_a-second-qmd-based-notebook.html",
+    "title": "This is a second documentation page",
+    "section": "",
+    "text": "More stuff here.",
+    "crumbs": [
+      "Nbs",
+      "This is a second documentation page"
+    ]
+  }
+]
