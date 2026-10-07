@@ -3,6 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Beyond nbdev"
+  title: "uvdev"
   sidebar:
     contents: auto 
