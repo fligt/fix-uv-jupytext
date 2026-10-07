@@ -1,0 +1,26 @@
+---
+title: How to set up a uv-jupytext-quarto project?
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.19.6
+  kernelspec:
+    display_name: .venv
+    language: python
+    name: python3
+---
+
+```{python}
+print('fixed')
+```
+
+What did we learn?
+
+Mm, still not sure...
+
+```{python}
+1 * 10
+```
