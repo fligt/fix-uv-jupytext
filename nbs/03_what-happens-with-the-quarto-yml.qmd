@@ -1,5 +1,5 @@
 ---
-title: Beyond nbdev
+title: What happens with the quarto yaml header?
 jupyter:
   jupytext:
     text_representation:
@@ -13,4 +13,4 @@ jupyter:
     name: python3
 ---
 
-And now in this first notebook.
+This seems to go well now. 

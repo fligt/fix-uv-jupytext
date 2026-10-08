@@ -1,24 +1,32 @@
 [
   {
-    "objectID": "nbs/01_a-qmd-first-notebook.html",
-    "href": "nbs/01_a-qmd-first-notebook.html",
-    "title": "Beyond nbdev",
+    "objectID": "03_what-happens-with-the-quarto-yml.html",
+    "href": "03_what-happens-with-the-quarto-yml.html",
+    "title": "What happens with the quarto yaml header?",
     "section": "",
-    "text": "Let’s see if we can generate documentation pages with quarto.",
+    "text": "This seems to go well now.",
     "crumbs": [
-      "Nbs",
-      "Beyond nbdev"
+      "What happens with the quarto yaml header?"
     ]
   },
   {
-    "objectID": "nbs/02_a-second-qmd-based-notebook.html",
-    "href": "nbs/02_a-second-qmd-based-notebook.html",
+    "objectID": "02_a-second-qmd-based-notebook.html",
+    "href": "02_a-second-qmd-based-notebook.html",
     "title": "This is a second documentation page",
     "section": "",
-    "text": "More stuff here.",
+    "text": "How about this line?",
     "crumbs": [
-      "Nbs",
       "This is a second documentation page"
+    ]
+  },
+  {
+    "objectID": "01_a-qmd-first-notebook.html",
+    "href": "01_a-qmd-first-notebook.html",
+    "title": "Beyond nbdev",
+    "section": "",
+    "text": "And now in this first notebook.",
+    "crumbs": [
+      "Beyond nbdev"
     ]
   }
 ]
