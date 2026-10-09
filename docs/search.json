@@ -1,22 +1,19 @@
 [
   {
-    "objectID": "03_what-happens-with-the-quarto-yml.html",
-    "href": "03_what-happens-with-the-quarto-yml.html",
-    "title": "What happens with the quarto yaml header?",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Getting started",
     "section": "",
-    "text": "This seems to go well now.",
-    "crumbs": [
-      "What happens with the quarto yaml header?"
-    ]
+    "text": "Here is a first step."
   },
   {
-    "objectID": "02_a-second-qmd-based-notebook.html",
-    "href": "02_a-second-qmd-based-notebook.html",
-    "title": "This is a second documentation page",
+    "objectID": "01_a-qmd-first-notebook.html",
+    "href": "01_a-qmd-first-notebook.html",
+    "title": "Beyond nbdev",
     "section": "",
-    "text": "How about this line?",
+    "text": "Having solved the interpreter selection problem with the command palette Crtl-Shift-P, we can now move along and tweak the quarto pages.\n\nprint('lets check the logs')\n\nlets check the logs",
     "crumbs": [
-      "This is a second documentation page"
+      "Beyond nbdev"
     ]
   },
   {
@@ -30,13 +27,23 @@
     ]
   },
   {
-    "objectID": "01_a-qmd-first-notebook.html",
-    "href": "01_a-qmd-first-notebook.html",
-    "title": "Beyond nbdev",
+    "objectID": "02_a-second-qmd-based-notebook.html",
+    "href": "02_a-second-qmd-based-notebook.html",
+    "title": "This is a second documentation page",
     "section": "",
-    "text": "Having solved the interpreter selection problem with the command palette Crtl-Shift-P, we can now move along and tweak the quarto pages.\n\nprint('lets check the logs')\n\nlets check the logs",
+    "text": "How about this line?",
     "crumbs": [
-      "Beyond nbdev"
+      "This is a second documentation page"
+    ]
+  },
+  {
+    "objectID": "03_what-happens-with-the-quarto-yml.html",
+    "href": "03_what-happens-with-the-quarto-yml.html",
+    "title": "What happens with the quarto yaml header?",
+    "section": "",
+    "text": "This seems to go well now.",
+    "crumbs": [
+      "What happens with the quarto yaml header?"
     ]
   }
 ]
