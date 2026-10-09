@@ -20,11 +20,21 @@
     ]
   },
   {
+    "objectID": "04_this-is-a-new-fresh.html",
+    "href": "04_this-is-a-new-fresh.html",
+    "title": "Here is the fresh title",
+    "section": "",
+    "text": "And a fresh line of text.",
+    "crumbs": [
+      "Here is the fresh title"
+    ]
+  },
+  {
     "objectID": "01_a-qmd-first-notebook.html",
     "href": "01_a-qmd-first-notebook.html",
     "title": "Beyond nbdev",
     "section": "",
-    "text": "And now in this first notebook.",
+    "text": "Having solved the interpreter selection problem with the command palette Crtl-Shift-P, we can now move along and tweak the quarto pages.\n\nprint('lets check the logs')\n\nlets check the logs",
     "crumbs": [
       "Beyond nbdev"
     ]

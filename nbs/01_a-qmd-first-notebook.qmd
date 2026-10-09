@@ -13,4 +13,8 @@ jupyter:
     name: python3
 ---
 
-And now in this first notebook.
+Having solved the interpreter selection problem with the command palette Crtl-Shift-P, we can now move along and tweak the quarto pages. 
+
+```{python}
+print('lets check the logs')
+```
