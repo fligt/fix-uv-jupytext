@@ -11,7 +11,7 @@
     "href": "01_a-qmd-first-notebook.html",
     "title": "Beyond nbdev",
     "section": "",
-    "text": "Having solved the interpreter selection problem with the command palette Crtl-Shift-P, we can now move along and tweak the quarto pages.\n\nprint('lets check the logs')\n\nlets check the logs",
+    "text": "Let’s start here with writing and testing a simple function.\n\nimport fix_uv_jupytext as fuv\n\n\nfuv.say_hello('frank')\n\nHello and goodbye frank\n\n\n%%writefile ../src/fix_uv_jupytext/greetings.py\n\ndef say_hello(name): \n    '''This is a very simple function.'''\n\n    print(f'Hello and goodbye {name}')",
     "crumbs": [
       "Beyond nbdev"
     ]

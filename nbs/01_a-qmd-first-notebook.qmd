@@ -13,8 +13,22 @@ jupyter:
     name: python3
 ---
 
-Having solved the interpreter selection problem with the command palette Crtl-Shift-P, we can now move along and tweak the quarto pages. 
+Let's start here with writing and testing a simple function. 
 
 ```{python}
-print('lets check the logs')
+import fix_uv_jupytext as fuv
+```
+
+```{python}
+fuv.say_hello('frank')
+```
+
+
+```python
+%%writefile ../src/fix_uv_jupytext/greetings.py
+
+def say_hello(name): 
+    '''This is a very simple function.'''
+
+    print(f'Hello and goodbye {name}')
 ```
